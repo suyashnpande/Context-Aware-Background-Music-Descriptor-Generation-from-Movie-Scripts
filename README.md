@@ -71,6 +71,8 @@ Predicted attributes include:
 These descriptors resemble the cues used in professional film scoring.
 
 ---
+## Important Link
+### Link for Kaggle ipynb file: https://www.kaggle.com/code/suyashnpande/project-v1-6
 
 ## Dataset
 

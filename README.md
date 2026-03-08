@@ -122,6 +122,5 @@ Potential applications include:
 - Intelligent soundtrack recommendation
 - Narrative-driven music composition systems
 
----
-
-## Repository Structure
+### Image 
+![Test Image 4](https://github.com/suyashnpande/Context-Aware-Background-Music-Descriptor-Generation-from-Movie-Scripts/blob/main/diagram-export-3-8-2026-6_56_37-PM_copy.png)

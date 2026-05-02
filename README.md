@@ -362,12 +362,6 @@ A: The models are trained on English screenplays. For other languages, you may n
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) file for details.
-
----
-
 ## 🔗 Links
 
 - 📦 **HuggingFace Hub**: [Models Repository](https://huggingface.co/suyashnpande)

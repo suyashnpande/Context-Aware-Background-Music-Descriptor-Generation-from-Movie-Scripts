@@ -15,13 +15,11 @@ Evaluated on **81 annotated films** (~11,000 scenes), ScoreForge achieves:
 ---
 
 ## Repository Structure
-CineEmotion/
-│
+CineEmotion/    
 ├── final_module1.ipynb       # Module 1 — Scene Perception (training + evaluation)  
 ├── final_2.ipynb             # Module 2 — Narrative Context (training + evaluation)  
 ├── final_3.ipynb             # Module 3 — Music Descriptor Prediction (training + evaluation)  
-├── inference.ipynb           # End-to-end inference on new screenplay scenes  
-│  
+├── inference.ipynb           # End-to-end inference on new screenplay scenes   
 └── README.md  
 
 ---
